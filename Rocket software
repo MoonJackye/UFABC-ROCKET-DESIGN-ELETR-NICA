@@ -1,4 +1,5 @@
-//Algoritmo baseado no sistema de eletrônica de um foguete modelo, desenvolvido para executar funções em vôo desde como leitura de sensores, armazenamento de dados no SD, detecção do apogeu até o acionamente de parachute e a otimização do sistema de recuperação.
+//Algoritmo em C++/Arduino baseado no sistema de eletrônica de um foguete modelo, desenvolvido para executar funções em vôo desde como leitura de sensores, 
+armazenamento de dados no SD, detecção do apogeu até o acionamente de parachute e a otimização do sistema de recuperação.
 
 
 
